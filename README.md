@@ -1,2 +1,0 @@
-# Achirou-Faozan
-Administrator system
